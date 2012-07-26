@@ -1,0 +1,7 @@
+char  frequency Huffman Code
+A          3          0
+B          1        110
+C          2         10
+D          2        111
+Lavg = 2.000
+CR = 0.750
